@@ -1,7 +1,0 @@
-Test
-
-
-int main() {
-
-    
-}
