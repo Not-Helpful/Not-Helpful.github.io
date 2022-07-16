@@ -15,7 +15,9 @@ Creating a bot to play the game on our behalf
 With these goals I expect to learn and practice:
 
 How to edit a binary
+
 How to access a running processes memory
+
 Python Automation magic
 
 Let’s begin >:)
