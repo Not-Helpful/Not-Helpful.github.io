@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ My approach to learning can broadly be understood as two different goals: Understanding and Practice. When I am encountering new material, my goal is to understand. This means seeking out new and varied explanations, reading and re-reading, and asking for help (asking for help is important, ask for help). Once I feel that I have understanding, I attempt to apply what I have learned and solidify it with practice. Things that I understand, but do not practice, quickly leave my brain. Despite this, practice is still not something I am very interested in. Ultimately, my goal is to understand, not to practice. This blog will serve as evidence of my practice, and the fact that you are reading it holds me accountable to that practice. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+    I encourage everyone to take time to practice.
