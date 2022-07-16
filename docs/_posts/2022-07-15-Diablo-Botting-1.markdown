@@ -24,4 +24,4 @@ The first task was to create a very powerful character, but I took baby steps. B
 
 Let’s begin by creating a new character.
 
-
+![Making a Barbarian]({{ site.url }}/_res/characterMade.gif)
