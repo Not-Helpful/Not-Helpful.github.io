@@ -7,7 +7,6 @@ categories: Diablo-Botting
 I have a problem when it comes to video games. I was diagnosed with tendinitis in my hand around 5 years ago. This has caused me to have to stop playing sometimes. Yes, Reader, I know. It is very sad. One of the worst gaming experiences with tendinitis is Diablo 2. The root of the problem is that Diablo 2 requires a large amount of repetitive clicking that can last for the entire duration of the session. Today, we will be starting a project to bot Diablo 2 (offline), that way I will never have to stop playing. 
 When I decided to go through with this project idea, I wanted to effectively learn and practice a couple of skills that I deem valuable. We have three goals to accomplish by the end of this project:
 
-
 Patching the Diablo binary in creative ways that allow for an interesting character
 Editing the running memory of the Diablo process in creative ways that allow for an interesting character
 Creating a bot to play the game on our behalf
