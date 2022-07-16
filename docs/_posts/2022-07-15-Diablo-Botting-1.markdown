@@ -8,7 +8,9 @@ I have a problem when it comes to video games. I was diagnosed with tendinitis i
 When I decided to go through with this project idea, I wanted to effectively learn and practice a couple of skills that I deem valuable. We have three goals to accomplish by the end of this project:
 
 Patching the Diablo binary in creative ways that allow for an interesting character
+
 Editing the running memory of the Diablo process in creative ways that allow for an interesting character
+
 Creating a bot to play the game on our behalf
 
 With these goals I expect to learn and practice:
